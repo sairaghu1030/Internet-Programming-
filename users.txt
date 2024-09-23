@@ -1,0 +1,2 @@
+user:$2y$10$ju39NGg1rLFexspTIjcYd.4FiKqMbVJYf.yaxqbyjOr/ZYpM/EpaG:user
+Prudhvi:$2y$10$a3g6Ryni4y.QHLS9TYqKTOmAT2relZ4kAsXl8GQPzNlu7RK.i1xNa:user
